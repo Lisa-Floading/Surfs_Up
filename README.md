@@ -12,5 +12,7 @@ Six different weather stations provided data on temperature and rainfall. Three 
 - December data points are more spread out, ranging from 56 degrees to 83 degrees. 
 - The mean temperature in June is 79.94 F and 71.04 F in December. 
 
+![alt text]Graphics/December_temperatures.png
+
 ## Summary 
 When analyzing the temperatures historically, it is clear that the majority of temperatures are above 70 degrees, making this location likely a solid investment for this business. Additional research could be done to determine what months have the most variance in temperature and how many months have a variance of more than 30 degrees. 
