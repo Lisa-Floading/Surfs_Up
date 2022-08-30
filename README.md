@@ -17,3 +17,5 @@ Six different weather stations provided data on temperature and rainfall. Three 
 
 ## Summary 
 When analyzing the temperatures historically, it is clear that the majority of temperatures are above 70 degrees, making this location likely a solid investment for this business. Additional research could be done to determine what months have the most variance in temperature and how many months have a variance of more than 30 degrees. 
+
+![](https://github.com/Lisa-Floading/Surfs_Up/blob/0592ef8699bc3a031c08e98079d1b4e1effee336/Graphics/Frequency_Temperatures.png)
