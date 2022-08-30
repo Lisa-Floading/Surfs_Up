@@ -12,7 +12,7 @@ Six different weather stations provided data on temperature and rainfall. Three 
 - December data points are more spread out, ranging from 56 degrees to 83 degrees. 
 - The mean temperature in June is 79.94 F and 71.04 F in December. 
 
-![](https://github.com/Lisa-Floading/Surfs_Up/blob/1912d5508e17516cdde659dd25c1eb4d6ab0e0d8/Graphics/December_temperatures.png)
+![](https://github.com/Lisa-Floading/Surfs_Up/blob/1912d5508e17516cdde659dd25c1eb4d6ab0e0d8/Graphics/December_temperatures.png) ![](https://github.com/Lisa-Floading/Surfs_Up/blob/bfe4c436a8082f10e878c1dc8b8e45fa551b1b44/Graphics/June_temperatures.png)
 
 
 ## Summary 
